@@ -17,4 +17,6 @@ Project to help high and middle schoolers to learn advanced programming skills a
 ## IDE - Visual Studio Code - https://code.visualstudio.com/
 
 ## Interesting Libraries
-  1. Jonny-5 
+  1. Jonny-5 - http://johnny-five.io/
+  2. GOBOT - https://gobot.io/ 
+  3. Rust - https://rust-embedded.github.io/blog/ 
