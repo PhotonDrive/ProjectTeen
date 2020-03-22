@@ -23,3 +23,7 @@ Project to help high and middle schoolers to learn advanced programming skills a
 
 ## Project Ideas
   1. https://pimylifeup.com/category/projects/
+  2. https://projects.raspberrypi.org/en/projects
+  3. https://aws.amazon.com/deepracer/
+  4. https://aws.amazon.com/deepcomposer/
+  5. 
