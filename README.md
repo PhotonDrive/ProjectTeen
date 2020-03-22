@@ -33,3 +33,4 @@ Project to help high and middle schoolers to learn advanced programming skills a
   3. https://aws.amazon.com/deepracer/
   4. https://aws.amazon.com/deepcomposer/
   5. https://projects.raspberrypi.org/en/projects/boat-race - Love this.... Can we make this multiplayer? 
+  6. https://www.instructables.com/id/How-to-Build-a-Raspberry-Pi-Smart-Mirror/
