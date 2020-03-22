@@ -20,3 +20,6 @@ Project to help high and middle schoolers to learn advanced programming skills a
   1. Jonny-5 - http://johnny-five.io/
   2. GOBOT - https://gobot.io/ 
   3. Rust - https://rust-embedded.github.io/blog/ 
+
+## Project Ideas
+  1. https://pimylifeup.com/category/projects/
