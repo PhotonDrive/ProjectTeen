@@ -16,7 +16,8 @@ Project to help high and middle schoolers to learn advanced programming skills a
   Installing VS Code on Linux
   https://www.youtube.com/watch?v=eZCGpvPlDnY&t=113s 
   
-  
+  For Windows Lovers
+  https://www.windowslatest.com/2020/02/09/heres-how-windows-10-runs-on-raspberry-pi-4-and-3/
   
   
   2. Arduino - https://www.arduino.cc/
