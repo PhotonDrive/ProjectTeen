@@ -47,3 +47,6 @@ Project to help high and middle schoolers to learn advanced programming skills a
   5. https://projects.raspberrypi.org/en/projects/boat-race - Love this.... Can we make this multiplayer? 
   6. https://www.instructables.com/id/How-to-Build-a-Raspberry-Pi-Smart-Mirror/
   7. a Dashboard - https://github.com/dubbadhar/piHoleLCDStat
+
+## Excellent Example of a project, you want to get as close to as this example in terms of documenting what you want to do.
+https://www.balena.io/blog/diy-raspberry-pi-multi-room-audio-system/
