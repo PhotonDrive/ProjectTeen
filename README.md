@@ -7,6 +7,18 @@ Project to help high and middle schoolers to learn advanced programming skills a
   1. Raspberry PI - https://www.raspberrypi.org/
   https://www.amazon.com/gp/product/B07TYK4RL8/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
   
+  how to assign Static IP address
+  https://accidentaltechnologist.com/raspberry-pi/how-to-assign-static-ip-address-on-raspberry-pi/
+  
+  Installing Kali Linux and VNC
+  https://www.youtube.com/watch?v=wOD2ICunZ6M&feature=youtu.be
+  
+  Installing VS Code on Linux
+  https://www.youtube.com/watch?v=eZCGpvPlDnY&t=113s 
+  
+  
+  
+  
   2. Arduino - https://www.arduino.cc/
   https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=sr_1_9?keywords=Arduino&qid=1584903857&s=electronics&sr=1-9
   
@@ -34,3 +46,4 @@ Project to help high and middle schoolers to learn advanced programming skills a
   4. https://aws.amazon.com/deepcomposer/
   5. https://projects.raspberrypi.org/en/projects/boat-race - Love this.... Can we make this multiplayer? 
   6. https://www.instructables.com/id/How-to-Build-a-Raspberry-Pi-Smart-Mirror/
+  7. a Dashboard - https://github.com/dubbadhar/piHoleLCDStat
