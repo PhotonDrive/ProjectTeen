@@ -19,6 +19,10 @@ Project to help high and middle schoolers to learn advanced programming skills a
   For Windows Lovers
   https://www.windowslatest.com/2020/02/09/heres-how-windows-10-runs-on-raspberry-pi-4-and-3/
   
+  driving LED strips
+  https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/
+  
+  
   
   2. Arduino - https://www.arduino.cc/
   https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=sr_1_9?keywords=Arduino&qid=1584903857&s=electronics&sr=1-9
